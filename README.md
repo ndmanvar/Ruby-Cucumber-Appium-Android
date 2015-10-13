@@ -15,4 +15,4 @@ install gems: `bundle install  # use sudo if necessary`
 See https://docs.saucelabs.com/reference/rest-api/#temporary-storage
 
 # Running the tests
-to run: `make run_all_in_parallel`
+to run: `rake test_sauce`
