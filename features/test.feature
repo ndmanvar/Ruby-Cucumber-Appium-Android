@@ -1,4 +1,4 @@
-Feature: Sample Real Device Test
+Feature: Sample Emulator Test
   
   Scenario: Add a Contact
     Given I click on the add contact button
